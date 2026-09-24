@@ -1,13 +1,3 @@
-
-<br>
-
-<!-- ===== DIVIDER ===== -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</div>
-
-<!-- ===== IMAGEN FINAL (tamaño: cambie width y height) ===== -->
-<div>
 <!-- ===== HEADER ===== -->
 <h1 align="center">
   <b>Hi, I'm Christián Orjuela </b>
@@ -56,7 +46,9 @@ I adapt easily to new work environments, learn quickly and enjoy solving complex
 <h2 align="center">Featured Projects</h2>
 
 <!-- Proyecto 1 -->
-### 🏠 Habitar Inmobiliaria — Backend
+### 🏠 [Habitar Inmobiliaria — Backend](https://github.com/COF9999/backend-inmobiliaria)
+
+<a href="https://github.com/COF9999/backend-inmobiliaria" target="_blank"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a>
 
 Commission management and settlement software for real estate agents, integrated with **HubSpot CRM**.
 
@@ -75,7 +67,9 @@ Commission management and settlement software for real estate agents, integrated
 <br>
 
 <!-- Proyecto 2 -->
-### 🖥️ Habitar Inmobiliaria — Frontend
+### 🖥️ [Habitar Inmobiliaria — Frontend](https://github.com/COF9999/front-inmobiliaria)
+
+<a href="https://github.com/COF9999/front-inmobiliaria" target="_blank"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repository" /></a>
 
 Web interface for managing deals and commission settlements for real estate agents.
 
@@ -174,10 +168,3 @@ Web interface for managing deals and commission settlements for real estate agen
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
-
-<!-- ===== IMAGEN FINAL (tamaño: cambie width y height) ===== -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" width="100" height="100" alt="animation" />
-</div>  
- 

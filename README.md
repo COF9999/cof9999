@@ -38,7 +38,7 @@ I'm a **Software Engineer** who graduated from Corporación Universitaria Empres
 
 I have **15 months of certified professional experience** in software development, first at AtlanticSoft, a software development company, and later **building custom software for Hábitar Inmobiliaria**. I also have **3 years of experience building personal projects** with Spring Boot and React.
 
-I adapt easily to new work environments, learn quickly and enjoy solving complex problems. I like bringing creative ideas that drive productivity and business growth, and I take full ownership of every task I'm assigned.
+I adapt easily to new work environments and learn quickly. I enjoy innovating with creative ideas focused on productivity and company growth, as well as analyzing real-world problems, breaking them down into smaller modules, and turning them into scalable, maintainable applications.
 
 <br>
 

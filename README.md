@@ -36,7 +36,7 @@
 
 I'm a **Software Engineer** who graduated from Corporación Universitaria Empresarial Alexander von Humboldt, focused on backend development with **Java**, **Spring Boot** and **Spring Security**, REST API design and cloud deployment, while also building modern interfaces with **React**.
 
-I have **1 year and 3 months of certified professional experience** in software development, working at software development companies and building **custom software for Habitar Inmobiliaria**.
+I have **15 months of certified professional experience** in software development, first at AtlanticSoft, a software development company, and later **building custom software for Hábitar Inmobiliaria**. I also have **3 years of experience building personal projects** with Spring Boot and React.
 
 I adapt easily to new work environments, learn quickly and enjoy solving complex problems. I like bringing creative ideas that drive productivity and business growth, and I take full ownership of every task I'm assigned.
 
